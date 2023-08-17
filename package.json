@@ -17,7 +17,7 @@
   },
   "scripts": {
     "start": "PORT=43149 react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && mv build/index.html build/index-sub.html",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
