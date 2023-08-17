@@ -2,7 +2,7 @@
 
 ![Cover Photo](screenshots/cover_photo.png)
 
-This project template has been carefully crafted to provide a standardized structure for ReactJS projects developed by [Your Company Name]. It follows a well-organized layout to enhance collaboration, code maintainability, and development efficiency.
+This project template has been carefully crafted to provide a standardized structure for ReactJS projects developed by Oaks Solution and Studio. It follows a well-organized layout to enhance collaboration, code maintainability, and development efficiency.
 
 ## Project Structure
 
